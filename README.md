@@ -1,6 +1,4 @@
 # Joga da velha
-**Jogo da velha simples em C++. Conceitos aprendidos e utilizados:**
---------------------------------------------------------------------------
 
 **Programação em C++:** Uso de bibliotecas padrão para entrada/saída, strings, e geração de números aleatórios.
 
